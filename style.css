@@ -20,7 +20,7 @@ body {
 }
 
 .group {
-  transform: translate(0%, 100%);
+  transform: translate(0%, 0%);
 }
 
 #text:has(.fancy:hover) .word:not(.fancy:hover) {
